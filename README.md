@@ -21,8 +21,8 @@ My GitHub profile README showcasing my projects and skills.
 ---
 
 ## 📂 Projects
-- [Morse Light Decoder] TODO - (WIP) C/Arduino program to decode Morse code from light signals  
-- [Temperature Converter] TODO – AJAX/XML Fahrenheit to Celsius converter
+- [Morse Light Decoder] - (WIP) C/Arduino program to decode Morse code from light signals  
+- [Temperature Converter] - AJAX/XML Fahrenheit to Celsius converter
 
 ## 📫 How to reach me
 - **Email:** nsavov.23@gmail.com 
